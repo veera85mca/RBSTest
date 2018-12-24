@@ -1,3 +1,4 @@
+//Driver initialize class to start the driver// 
 package com.rbstest.sample.RBSinitialize;
 
 import java.io.File;
